@@ -7,7 +7,7 @@ Selfhosting is the process of locally hosting and managing applications instead 
 This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted locally. Non-Free software is listed on the [Non-Free](non-free.md) page.
 
 See [Contributing](#contributing).
-
+Mali
 =================
 
   - [Analytics](#analytics)
@@ -243,6 +243,7 @@ _Mailing lists servers._
 
 _Mass mailing software - one message to many recipients_
 
+  * [Dada Mail](http://dadamailproject.com) - contemporary mailing list manager; announce-only newsletter and group discussion lists `Perl` `GPL`
   * [Mailtrain](https://mailtrain.org/) - self hosted newsletter application built on Node.js (v5+) and MySQL (v5.5+ or MariaDB). ([Source Code](https://github.com/andris9/mailtrain)) `GPL-V3.0` `Node.js`
   * [phpList](https://phplist.org) - Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. ([Source Code](https://github.com/phpList/)) `AGPLv3` `PHP`
 
